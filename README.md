@@ -15,3 +15,7 @@ The codes of Neural News Recommendation with Attentive Multi-view Learning
   url       = {https://doi.org/10.24963/ijcai.2019/536},
 }
 ```
+Environment:
+
+tf==1.12.0
+keras==2.2.4
