@@ -18,4 +18,5 @@ The codes of Neural News Recommendation with Attentive Multi-view Learning
 Environment:
 
 tf==1.12.0
+
 keras==2.2.4
